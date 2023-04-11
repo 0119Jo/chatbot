@@ -1,10 +1,10 @@
 # chatbot
 
-프레임워크 : Spring boot
-  -Spring boot DevTools
-  -Spring Web 
-자바 버전 : 11
-tool : vscode
+Framework : Spring boot<br>
+  -Spring boot DevTools<br>
+  -Spring Web <br>
+java : 11<br>
+tool : vscode<br>
 
 해당 페이지의 연습은 https://jobtc.tistory.com/59 사이트를 보고 따라 했습니다.
 
